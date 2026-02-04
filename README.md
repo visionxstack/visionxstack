@@ -1,6 +1,6 @@
 # Hi, I'm Vision KC 🇳🇵
 
-**Developer | Cybersecurity Focus**
+**Developer | Cybersecurity Analyst | Exploring AI & Emerging Technologies**
 
 Blending offensive security learning with the development of secure, user-focused web applications.
 
@@ -72,7 +72,7 @@ Blending offensive security learning with the development of secure, user-focuse
 
 👨🏻‍💻 Offensive Security <br>
 🛡️ Web Application Penetration Testing <br>
-🌐 Security-First Web Development
+🌐 Emerging AI Technologies
 
 ---
 
