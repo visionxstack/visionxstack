@@ -1,6 +1,6 @@
 # Hi, I'm Vision KC 🇳🇵
 
-**Developer | Cybersecurity Analyst | Exploring AI & Emerging Technologies**
+**Developer | Cybersecurity Lead | Red Team Focused | Exploring AI & Emerging Technologies**
 
 Blending offensive security learning with the development of secure, user-focused web applications.
 
