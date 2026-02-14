@@ -1,8 +1,8 @@
 # Hi, I'm Vision KC 🇳🇵
 
-**Developer | Cybersecurity Lead | Red Team Focused | Exploring AI & Emerging Technologies**
+**Developer | Cybersecurity Lead |**
 
-Building systems by day, breaking them by night.
+# Building systems by day, breaking them by night.
 
 <div align="center">
 
