@@ -2,7 +2,7 @@
 
 **Developer | Cybersecurity Lead | Red Team Focused | Exploring AI & Emerging Technologies**
 
-Blending offensive security learning with the development of secure, user-focused web applications.
+Building systems by day, breaking them by night.
 
 <div align="center">
 
