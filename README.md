@@ -2,7 +2,7 @@
 
 **Developer | Cybersecurity Lead | Exploring AI & Emerging Technologies**
 
- **Building systems by day, breaking them by night.**
+ **Building systems by day, breaking them by night.👨🏻‍💻**
 
 <div align="center">
 
