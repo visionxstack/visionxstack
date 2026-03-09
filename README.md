@@ -1,6 +1,6 @@
 # Hi, I'm Vision KC 🇳🇵
 
-**Developer | Cybersecurity Lead | Exploring AI & Emerging Technologies**
+**Security Engineer | Ethical Hacker | AI Researcher**
 
  **Building systems by day, breaking them by night.👨🏻‍💻**
 
