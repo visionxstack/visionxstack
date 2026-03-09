@@ -72,7 +72,7 @@
 
 👨🏻‍💻 Offensive Security <br>
 🛡️ Web Application Penetration Testing <br>
-🌐 Emerging AI Technologies
+🌐 C Programming Language
 
 ---
 
