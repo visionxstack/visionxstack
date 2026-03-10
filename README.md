@@ -70,7 +70,7 @@
 
 ## 🎯 Current Focus
 
-👨🏻‍💻 Offensive Security <br>
+👨🏻‍💻 Leading Cyber Awareness <br>
 🛡️ Web Application Penetration Testing <br>
 🌐 C Programming Language
 
