@@ -70,7 +70,7 @@
 
 ## 🎯 Current Focus
 
-👨🏻‍💻 Promoting Cyber Awareness among peoples <br>
+👨🏻‍💻 Promoting Cyber Awareness <br>
 🛡️ Web Application Penetration Testing <br>
 🌐 C Programming Language
 
