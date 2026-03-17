@@ -39,11 +39,16 @@
 
 **Security & Cybersecurity**
 
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square&logo=linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square&logo=linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1A1A1A?style=flat-square&logo=linux&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John-8B0000?style=flat-square&logo=linux&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-3C3C3C?style=flat-square&logo=linux&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=flat-square&logo=database&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
 
 
 ---
