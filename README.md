@@ -87,7 +87,7 @@
 
 🛡️ Offensive Security & Web App Pentesting<br>
 👨🏻‍💻 Cybersecurity Awareness Initiativesg <br>
-🌐 Developing Modern Web Applications
+🌐 Developing Web Apps & Security Tools
 
 ---
 
