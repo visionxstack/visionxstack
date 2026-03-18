@@ -85,9 +85,9 @@
 
 ## 🎯 Current Focus
 
-👨🏻‍💻 Promoting Cyber Awareness <br>
-🛡️ Web Application Penetration Testing <br>
-🌐 C Programming Language
+🛡️ Offensive Security & Web App Pentesting
+👨🏻‍💻 Cybersecurity Awareness Initiativesg <br>
+🌐 Developing Modern Web Applications
 
 ---
 
