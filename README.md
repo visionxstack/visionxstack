@@ -1,6 +1,6 @@
 # Hi, I'm Vision KC 🇳🇵
 
-**Security Engineer | Ethical Hacker | AI Researcher**
+**Security Engineer | Ethical Hacker | Web App Developer | AI Researcher**
 
  **Building systems by day, breaking them by night.👨🏻‍💻**
 
