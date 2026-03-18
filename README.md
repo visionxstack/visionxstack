@@ -85,7 +85,7 @@
 
 ## 🎯 Current Focus
 
-🛡️ Offensive Security & Web App Pentesting
+🛡️ Offensive Security & Web App Pentesting<br>
 👨🏻‍💻 Cybersecurity Awareness Initiativesg <br>
 🌐 Developing Modern Web Applications
 
