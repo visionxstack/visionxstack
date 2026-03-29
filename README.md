@@ -1,48 +1,44 @@
 <div align="center">
 
+```bash
+┌──(vision㉿dev)-[~]
+└─$ whoami
+vision-dev1
+```
+
 ```text
-[  OK  ] Initializing VisionX Kernel v1.0.4...
-[  OK  ] Loading user: vision-dev1...
-[  OK  ] Mounting /sys/bin/vision-dev1...
-[  OK  ] Establishing Secure Connection to GitHub.com...
--------------------------------------------------------
-VISIONX OS [Terminal v2.1] - Authorized Access Only
--------------------------------------------------------
+       ____   ____         User:     vision-dev1
+       \   \ /   /         Role:     Cybersecurity Dev
+        \   V   /          Shell:    zsh 5.9 (tokyonight)
+         >     <           Uptime:   2 years, 3 months
+        /   ^   \          OS:       VisionX (Debian)
+       /__ / \ __\         Focus:    Automation & Security
+                           Status:   Learning + Building
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vision-dev1&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
-### $ visionx whoami
-> **User:** vision-dev1  
-> **Identity:** Cybersecurity Developer & Systems Builder  
+### ┌──(vision㉿dev)-[~/vision/about]
+> **User Ident:** vision-dev1  
+> **Role:** Cybersecurity Developer & Systems Builder  
 > **Focus:** Automation, Offensive Security, Modular Tooling  
-> **Mission:** Developing tools that bridge the gap between complexity and security.  
+> **Mindset:** Building practical solutions for complex security problems.  
 
 ---
 
-### $ visionx ps -aux --running
+### ┌──(vision㉿dev)-[~/vision/active]
 ```text
-USER         PID  %CPU  %MEM  COMMAND
-vision-dev1  101  94.2  12.4  [RUNNING] Developing VisionX OS (Debian-based)
-vision-dev1  102  88.5  08.1  [RUNNING] Building automated exploit analyzers
-vision-dev1  103  15.2  02.0  [IDLE   ] Refactoring modular security frameworks
+[ RUNNING ] building custom security tools
+[ LEARNING ] advanced exploit automation
+[ IMPROVING ] system design & modularity
 ```
 
 ---
 
-### $ visionx system --info
-**VisionX OS** is a Debian-based custom environment tailored for high-efficiency cybersecurity workflows.
-- 🛠️ **Modular:** Component-based architecture for rapid tool deployment.
-- ⚡ **AutoPwn:** Integrated automation engine for security assessment.
-- 🧠 **Explain Engine:** Real-time logic parsing for complex exploit paths.
-- 💻 **CLI First:** Designed for terminal-centric developers.
-
----
-
-### $ visionx modules --list-tech
-#### 🛡️ Cybersecurity & Offensive Tools
+### ┌──(vision㉿dev)-[~/vision/stack]
+#### 🛡️ Cybersecurity & Offensive
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
@@ -57,14 +53,14 @@ vision-dev1  103  15.2  02.0  [IDLE   ] Refactoring modular security frameworks
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 #### ⚙️ Infrastructure & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### $ visionx logs --fetch-stats
+### ┌──(vision㉿dev)-[~/vision/logs]
 <details>
 <summary><b>[ CLICK TO EXPAND SYSTEM ANALYTICS ]</b></summary>
 <br/>
@@ -85,7 +81,8 @@ vision-dev1  103  15.2  02.0  [IDLE   ] Refactoring modular security frameworks
 
 <div align="center">
 
-`$ system.exit(0)`
+`┌──(vision㉿dev)-[~]`  
+`└─$ shutdown -h now`  
 **Stay low. Keep building.**
 
 </div>
