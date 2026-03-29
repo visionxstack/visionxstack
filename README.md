@@ -21,7 +21,7 @@ vision-dev1
 </div>
 
 ### ┌──(vision㉿dev)-[~/vision/about]
-> **User Ident:** vision-dev1  
+> **User Ident:** Vision KC  
 > **Role:** Cybersecurity Developer & Systems Builder  
 > **Focus:** Automation, Offensive Security, Modular Tooling  
 > **Mindset:** Building practical solutions for complex security problems.  
