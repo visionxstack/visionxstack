@@ -7,12 +7,13 @@ vision-dev1
 ```
 
 ```text
+
        ____   ____         User:     Visionnn
-       \   \ /   /         Role:     Cybersecurity Developer
-        \   V   /          Shell:    zsh 5.9 • TokyoNight
+       \   \ /   /         Role:     Cybersecurity Dev
+        \   V   /          Shell:    zsh 5.9 (tokyonight)
          >     <           Uptime:   2 years, 3 months
         /   ^   \          OS:       VisionX (Debian)
-       /__ / \ __\         Focus:    Secure Development • Offensive Security
+       /__ / \ __\         Focus:    Development & Security
                            Status:   Learning + Building
 ```
 
