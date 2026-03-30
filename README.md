@@ -7,13 +7,13 @@ Visionnn
 ```
 
 ```text
-       ____   ____         User   : Visionnn
-       \   \ /   /         Role   : Cybersecurity Developer
-        \   V   /          Shell  : zsh 5.9 TokyoNight
-         >     <           Uptime : 2y 3m
-        /   ^   \          OS     : Visionx ( Debian)
-       /__ / \ __\         Focus  : Secure Development • Offensive Security
-                           Status : Building. Breaking. Learning.
+       ____   ____         User:     Visionnn
+       \   \ /   /         Role:     Cybersecurity Developer
+        \   V   /          Shell:    zsh 5.9 • TokyoNight
+         >     <           Uptime:   2y 3m
+        /   ^   \          OS:       VisionX (Debian-based)
+       /__ / \ __\         Focus:    Secure Development • Offensive Security
+                           Status:   Building. Breaking. Learning.
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vision-dev1&color=blueviolet&style=flat-square&label=Profile+Views)
