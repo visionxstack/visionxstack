@@ -3,17 +3,17 @@
 ```bash
 ┌──(vision㉿dev)-[~]
 └─$ whoami
-Visionnn
+vision-dev1
 ```
 
 ```text
-       ____   ____         User   : Visionnn
-       \   \ /   /         Role   : Cybersecurity Developer
-        \   V   /          Shell  : zsh 5.9 TokyoNight
-         >     <           Uptime : 2y 3m
-        /   ^   \          OS     : Visionx ( Debian)
-       /__ / \ __\         Focus  : Secure Development • Offensive Security
-                           Status : Building. Breaking. Learning.
+       ____   ____         User:     vision-dev1
+       \   \ /   /         Role:     Cybersecurity Dev
+        \   V   /          Shell:    zsh 5.9 (tokyonight)
+         >     <           Uptime:   2 years, 3 months
+        /   ^   \          OS:       VisionX (Debian)
+       /__ / \ __\         Focus:    Automation & Security
+                           Status:   Learning + Building
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vision-dev1&color=blueviolet&style=flat-square&label=Profile+Views)
@@ -21,9 +21,9 @@ Visionnn
 </div>
 
 ### ┌──(vision㉿dev)-[~/vision/about]
-> **User Ident:** Visionnn  
-> **Role:** Cybersecurity Developer  
-> **Focus:** Secure Development • Offensive Security  
+> **User Ident:** vision-dev1  
+> **Role:** Cybersecurity Developer & Systems Builder  
+> **Focus:** Automation, Offensive Security, Modular Tooling  
 > **Mindset:** Building practical solutions for complex security problems.  
 
 ---
@@ -50,7 +50,7 @@ Visionnn
 ---
 
 ### ┌──(vision㉿dev)-[~/vision/connect]
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A5ACD?style=flat-square&logo=googlechrome&logoColor=white)](https://visionkc.com.np) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visionkc) [![Mail](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info.visionn7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visionkc.com.np-6A5ACD?style=flat-square&logo=googlechrome&logoColor=white)](https://visionkc.com.np) [![LinkedIn](https://img.shields.io/badge/LinkedIn-visionkc-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visionkc) [![Email](https://img.shields.io/badge/Email-info.visionn7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info.visionn7@gmail.com)
 
 ---
 
