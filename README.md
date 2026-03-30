@@ -7,12 +7,12 @@ vision-dev1
 ```
 
 ```text
-       ____   ____         User:     Visionnn
+       ____   ____         User:     vision-dev1
        \   \ /   /         Role:     Cybersecurity Dev
         \   V   /          Shell:    zsh 5.9 (tokyonight)
-         >     <           Uptime:   2y 3m
+         >     <           Uptime:   2 years, 3 months
         /   ^   \          OS:       VisionX (Debian)
-       /__ / \ __\         Focus:    Development & Security
+       /__ / \ __\         Focus:    Automation & Security
                            Status:   Learning + Building
 ```
 
