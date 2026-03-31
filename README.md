@@ -23,7 +23,7 @@ vision-dev1
 ### ┌──(vision㉿dev)-[~/vision/about]
 > **User Ident:** vision-dev1  
 > **Role:** Cybersecurity Developer & Systems Builder  
-> **Focus:** Automation, Offensive Security, Modular Tooling  
+> **Focus:** AI, Offensive Security, Modular Tooling  
 > **Mindset:** Building practical solutions for complex security problems.  
 
 ---
