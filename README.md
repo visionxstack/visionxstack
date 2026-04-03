@@ -21,7 +21,7 @@ vision-dev1
 </div>
 
 ### ┌──(vision㉿dev)-[~/vision/about]
-> **User Ident:** vision-dev1  
+> **User Ident:** Visionnn  
 > **Role:** Cybersecurity Developer & Systems Builder  
 > **Focus:** AI, Offensive Security, Modular Tooling  
 > **Mindset:** Building practical solutions for complex security problems.  
