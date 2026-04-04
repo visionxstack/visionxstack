@@ -77,6 +77,6 @@ vision-dev1
 
 `┌──(vision㉿dev)-[~]`  
 `└─$ shutdown -h now`  
-**Stay low. Keep building.**
+**Ideas are cheap. Code isn’t.**
 
 </div>
