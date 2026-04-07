@@ -11,7 +11,7 @@ vision-dev1
        \   \ /   /         Role:     Cybersecurity Dev
         \   V   /          Shell:    zsh 5.9 (tokyonight)
          >     <           Uptime:   2 years, 3 months
-        /   ^   \          OS:       VisionX (Debian)
+        /   ^   \          OS:       Kali
        /__ / \ __\         Focus:    Automation & Security
                            Status:   Learning + Building
 ```
