@@ -12,7 +12,7 @@ vision-dev1
         \   V   /          Shell:    zsh 5.9 (tokyonight)
          >     <           Uptime:   2 years, 3 months
         /   ^   \          OS:       VisionX (Debian)
-       /__ / \ __\         Focus:    Automation & Security
+       /__ / \ __\         Focus:    Development & Security
                            Status:   Learning + Building
 ```
 
