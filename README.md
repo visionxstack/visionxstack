@@ -7,7 +7,7 @@ vision-dev1
 ```
 
 ```text
-       ____   ____         User:     vision-dev1
+       ____   ____         User:     Visionnn
        \   \ /   /         Role:     Cybersecurity Dev
         \   V   /          Shell:    zsh 5.9 (TokyoNight)
          >     <           Uptime:   2 years, 3 months
