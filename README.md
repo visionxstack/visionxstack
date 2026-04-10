@@ -24,7 +24,7 @@ vision-dev1
 > **User Ident:** vision-dev1  
 > **Role:** Cybersecurity Developer & Systems Builder  
 > **Focus:** Offensive Security, Modular Tooling  
-> **Mindset:** Building practical solutions for complex security problems.  
+> **Mindset:** Think like an attacker, build like an engineer.  
 
 ---
 
