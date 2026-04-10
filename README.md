@@ -50,7 +50,7 @@ vision-dev1
 ---
 
 ### ┌──(vision㉿dev)-[~/vision/connect]
-[![Portfolio](https://img.shields.io/badge/Portfolio-visionkc.com.np-6A5ACD?style=flat-square&logo=googlechrome&logoColor=white)](https://visionkc.com.np) [![LinkedIn](https://img.shields.io/badge/LinkedIn-visionkc-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visionkc) [![Email](https://img.shields.io/badge/Email-info.visionn7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info.visionn7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://visionkc.com.np) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visionkc) [![Email][![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info.visionn7@gmail.com)
 
 ---
 
