@@ -30,9 +30,9 @@ vision-dev1
 
 ### ┌──(vision㉿dev)-[~/vision/active]
 ```text
-[ RUNNING ] building custom security tools
-[ LEARNING ] advanced exploit automation
-[ IMPROVING ] system design & modularity
+[ BUILDING ] custom security tools  
+[ AUTOMATING ] advanced exploitation workflows  
+[ SHARPENING ] system design & modular thinking  
 ```
 
 ---
