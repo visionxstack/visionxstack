@@ -3,7 +3,7 @@
 ```bash
 ┌──(vision㉿dev)-[~]
 └─$ whoami
-vision-dev1
+visionxstack
 ```
 
 ```text
