@@ -50,7 +50,7 @@ visionxstack
 ---
 
 ### ┌──(vision㉿dev)-[~/vision/connect]
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://visionkc.com.np) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visionkc) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info.visionn7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=vercel&logoColor=white)](https://visionkc.com.np) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/visionkc) [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail&logoColor=EA4335)](mailto:info.visionn7@gmail.com)
 
 ---
 
