@@ -1,7 +1,7 @@
 <div align="center">
 
 ```bash
-┌──(vision㉿dev)-[~]
+┌──(vision㉿stack)-[~]
 └─$ whoami
 visionxstack
 ```
@@ -19,7 +19,7 @@ visionxstack
 
 </div>
 
-### ┌──(vision㉿dev)-[~/vision/about]
+### ┌──(vision㉿stack)-[~/vision/about]
 > **User Ident:** visionxstack  
 > **Role:** Cybersecurity Developer & Systems Builder  
 > **Focus:** Offensive Security & Modular Tooling  
@@ -27,7 +27,7 @@ visionxstack
 
 ---
 
-### ┌──(vision㉿dev)-[~/vision/active]
+### ┌──(vision㉿stack)-[~/vision/active]
 ```text
 [ BUILDING ] custom security tools  
 [ AUTOMATING ] advanced exploitation workflows  
@@ -36,7 +36,7 @@ visionxstack
 
 ---
 
-### ┌──(vision㉿dev)-[~/vision/stack]
+### ┌──(vision㉿stack)-[~/vision/stack]
 #### 💻 Languages & Environments
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript) ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 
@@ -48,12 +48,12 @@ visionxstack
 
 ---
 
-### ┌──(vision㉿dev)-[~/vision/connect]
+### ┌──(vision㉿stack)-[~/vision/connect]
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=vercel&logoColor=white)](https://visionkc.com.np) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/visionkc) [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail&logoColor=EA4335)](mailto:info.visionn7@gmail.com)
 
 ---
 
-### ┌──(vision㉿dev)-[~/vision/logs]
+### ┌──(vision㉿stack)-[~/vision/logs]
 <details>
 <summary><b>[ CLICK TO EXPAND SYSTEM ANALYTICS ]</b></summary>
 <br/>
@@ -74,7 +74,7 @@ visionxstack
 
 <div align="center">
 
-`┌──(vision㉿dev)-[~]`  
+`┌──(vision㉿stack)-[~]`  
 `└─$ shutdown -h now`  
 **Consistency > Talent**
 
