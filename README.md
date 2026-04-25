@@ -10,10 +10,9 @@ visionxstack
        ____   ____         User:     Visionnn
        \   \ /   /         Role:     Cybersecurity Dev
         \   V   /          Shell:    zsh 5.9 (TokyoNight)
-         >     <           Uptime:   2 years, 3 months
-        /   ^   \          OS:       VisionX (Debian)
-       /__ / \ __\         Focus:    Development & Security
-                           Status:   Learning + Building
+         >     <           OS:       Windows + Kali
+        /   ^   \          Focus:    Security & Development
+       /__ / \ __\         Status:   Learning + Building
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vision-dev1&color=blueviolet&style=flat-square&label=Profile+Views)
