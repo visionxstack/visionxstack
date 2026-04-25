@@ -22,16 +22,17 @@ visionxstack
 ### ┌──(vision㉿stack)-[~/vision/about]
 > **User Ident:** visionxstack  
 > **Role:** Cybersecurity Developer & Systems Builder  
-> **Focus:** Offensive Security & Modular Tooling  
+> **Focus:** Offensive Security, Tooling & Secure Development  
 > **Mindset:** Think like an attacker, build like an engineer.  
 
 ---
 
 ### ┌──(vision㉿stack)-[~/vision/active]
 ```text
-[ BUILDING ] custom security tools  
-[ AUTOMATING ] advanced exploitation workflows  
-[ SHARPENING ] system design & modular thinking  
+[ BUILDING ] custom security tools & automation
+[ AUTOMATING ] advanced exploitation workflows
+[ SHARPENING ] system design & modular thinking
+[ HARDENING ] defensive security practices 
 ```
 
 ---
